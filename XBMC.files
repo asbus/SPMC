@@ -5965,6 +5965,7 @@ tools/android/packaging/settings.gradle
 tools/android/packaging/xbmc/AndroidManifest.xml.in
 tools/android/packaging/xbmc/build.gradle.in
 tools/android/packaging/xbmc/res/drawable/progresscolor.xml
+tools/android/packaging/xbmc/src/XBMCChannels.java.in
 tools/android/packaging/xbmc/src/XBMCMainView.java.in
 tools/android/packaging/xbmc/src/XBMCMediaSession.java.in
 tools/android/packaging/xbmc/src/XBMCProjection.java.in

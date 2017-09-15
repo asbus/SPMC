@@ -34,6 +34,7 @@ set(package_files strings.xml
                   src/Main.java
                   src/Splash.java
                   src/XBMCBroadcastReceiver.java
+                  src/XBMCChannels.java
                   src/XBMCCrashHandler.java
                   src/XBMCImageContentProvider.java
                   src/XBMCInputDeviceListener.java
